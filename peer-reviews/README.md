@@ -18,7 +18,7 @@
 
 两路意见均认可概念与架构已接近冻结。一方建议在微调后由作者确认，另一方建议送领域专家复审。已落实 P3–P6、权力渠道、咽喉点层级、符号与缺失状态、证据重叠及 H3/H4 的边界修订。
 
-经验侧按资料实际覆盖分开处理。[Writer 档案试编](../case-studies/writer-fork-pilot.md)记录接口和组织字段，[半导体、金融与 H7 核查](../case-studies/public-data-feasibility.md)记录公开材料及缺口。概念与架构作为冻结候选待作者签署。H1–H9 均尚未独立检验。
+经验侧按资料实际覆盖分开处理。[Writer 档案试编](../case-studies/writer-fork-pilot.md)记录接口和组织字段，[半导体、金融与 H7 核查](../case-studies/public-data-feasibility.md)记录公开材料及缺口。概念与架构的署名和范围见[冻结记录](../FREEZE.md)。H1–H9 均尚未独立检验。
 
 ## 提交新的审查
 
