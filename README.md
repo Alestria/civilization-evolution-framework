@@ -176,7 +176,3 @@ AI 可以参与：
 引用的第三方资料适用各自的权利与许可。
 
 许可详情：[Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
-
----
-
-先从具体问题做起。能解释什么、哪里解释不通，都照实记下来。
